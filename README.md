@@ -1,7 +1,6 @@
 - Hi, I’m @Nikita10saxena
 - I’m interested in web development and web designing
 - I’m currently pursuing BCA from Amity University, Rajasthan
-- I’m a member of Operation Team at Entrepreneurship Cell, Amity Innovation Incubator, Jaipur 
 - Reach me at @nikitasaxena1917ns@gmail.com
 
 <!---
